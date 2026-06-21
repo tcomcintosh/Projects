@@ -32,7 +32,9 @@ Pauley, Gayle and Johnstone, Kristina (2009). Addressing Under-representation
 of Student Populations in Gifted Programs. Office of Superintendent of Public
 Instruction. Olympia, Washington.
 
-“Search for Public School Districts - District Detail For.” Ed.gov, 2024, nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=5310110. Accessed 21 June 2026.
-“Search for Public School Districts - District Detail for Bellevue School District.” nces.ed.gov, nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=5300390.
+“Search for Public School Districts - District Detail For Yakima School District.” Ed.gov, 2024, nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=5310110. Accessed 21 June 2026.
+
+
+“Search for Public School Districts - District Detail for Bellevue School District.” nces.ed.gov, nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=5300390. Accessed 21 June 2026.
 
 
