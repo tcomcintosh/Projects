@@ -1,8 +1,6 @@
-# Projects
-This is for documenting completed and ongoing projects.
-About Me
-
+# About Me
 Hello,
+
 Welcome to my page of both ongoing and completed projects.
  
 I currently work in automation using mostly Power Automate (previously known as Microsoft Flow) as well as other Microsoft services, such as Power App. 
