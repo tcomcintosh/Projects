@@ -1,5 +1,4 @@
 # Projects
-[Project Portfolio 1 read.me.txt](https://github.com/user-attachments/files/29182688/Project.Portfolio.1.read.me.txt)
 This is for documenting completed and ongoing projects.
 About Me
 
