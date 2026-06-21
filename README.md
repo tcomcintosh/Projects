@@ -8,3 +8,6 @@ I currently work in automation using mostly Power Automate (previously known as 
 I build and maintain flows in my current place of employment, focusing on the automation of business processes, which are used across our regional locations. I also build and maintain apps (created by Power App) for our current business locations which are integrated with both Power Automate and other Microsoft services, such as SharePoint to simplify current processes and maximize productivity.
 
 These projects are mostly pet projects for data sets that interest me personally and I hope to gain new skills and dig into the 'why's' of a problem.
+
+Please access my project(s) via the branches, which will describe the type of project and will have any associated files.
+Thank you!
